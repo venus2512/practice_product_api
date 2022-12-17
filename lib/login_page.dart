@@ -1,7 +1,5 @@
 import 'dart:core';
 
-// import 'package:demo_project/screens/product_page.dart';
-
 
 import 'package:flutter/material.dart';
 import 'package:practice_product_api/screens/product_page.dart';

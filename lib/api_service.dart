@@ -1,6 +1,5 @@
 import 'dart:developer';
 
-// import 'package:demo_project/response_model.dart';
 import 'package:http/http.dart' as http ;
 import 'package:practice_product_api/response_model.dart';
 
